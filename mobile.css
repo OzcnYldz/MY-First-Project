@@ -1,0 +1,16 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.75rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+    height: 90px;
+}
+#Educations .items{
+    flex-direction: column;
+}
+#Educations .items .item{
+    width: 50%;
+}
+.courses .course{
+    flex-direction: column;
+}
